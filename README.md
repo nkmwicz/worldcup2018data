@@ -1,5 +1,7 @@
 ## Event Data from the 2018 World Cup
 
+Finalized data is cleaned_events_world_cup2018.csv
+
 This repo contains data from the 2018 World Cup in Russia. It was collected by Luca Pappalardo and Emanuele Massucco and is available on the [figshare platform](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5). There is also a GitHub repo explaining how to work with the data (here)[https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python]. The data has led to multiple papers, including:
 
 - Pappalardo et al., (2019) "A public data set of spatio-temporal match events in soccer competitions", _Nature Scientific Data_ 6:236, https://www.nature.com/articles/s41597-019-0247-7
